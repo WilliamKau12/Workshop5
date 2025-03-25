@@ -5,4 +5,4 @@ export type NodeState = {
   k: number | null;
 };
 
-export type Value = 0 | 1 | "?";
+export type Value = 0 | 1 | null;
